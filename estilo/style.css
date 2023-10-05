@@ -19,7 +19,7 @@ body {
     display: flex;
     font-family:'Montserrat', sans-serif ;
     font-weight: 200px;
-    background-image:url(/ceu-estrelado.avif);
+    background-image:url(ceu-estrelado.avif);
 }
 
 
@@ -104,7 +104,7 @@ div ul.botao input {
         font-size: 1.05rem;
         color: white;
         text-shadow: 0 0 10px #fff;
-        background-image: url(/ceu-estrelado.avif);
+        background-image: url(ceu-estrelado.avif);
         margin: 0 0 2px 150px;
         border-radius: 5px;
 }
